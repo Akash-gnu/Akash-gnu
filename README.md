@@ -1,24 +1,18 @@
-<div align="center">
-  <img height="90" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<h2 align="center">Hey there 👋</h2>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Hi i am akash.</h4>
+<h3 align="left">Hi i am akash.</h3>
 
 ###
 
-<h5 align="left">I'm from surat<br><br>- 🔭 I’m working as python developer<br>- 📚 I'm currently learning system design <br>- ⚡ In my free time i watch tech videos</h5>
+<p align="left">I'm from surat<br><br>- 🔭 I’m working as python developer<br>- 📚 I'm currently learning system design <br>- ⚡ In my free time i watch tech videos</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
