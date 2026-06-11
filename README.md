@@ -1,12 +1,16 @@
 <div align="center">
-  <img height="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="110" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <h1 align="center">Hey there 👋</h1>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">Hi i am akash.</h3>
 
